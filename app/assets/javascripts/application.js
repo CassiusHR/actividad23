@@ -11,6 +11,14 @@
 // about supported directives.
 //
 //= require jquery
+//= require js/jquery-1.11.1
+//= require bootstrap/js/bootstrap
+//= require js/jquery.backstretch
+//= require js/wow
+//= require js/retina-1.1.0
+//= require js/waypoints
+//= require js/jquery.magnific-popup
+//= require js/scripts
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
